@@ -1,0 +1,3 @@
+Make a Python program that asks the user for an integer "N" between 10 and 20.
+Displays all integers between 1 and N on the screen.
+Displays on the screen all integers between 30 and N, in reverse order.
